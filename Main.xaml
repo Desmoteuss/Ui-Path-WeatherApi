@@ -168,6 +168,6 @@
         </ActivityAction>
       </ui:ForEachRow.Body>
     </ui:ForEachRow>
-    <ui:WriteRange AddHeaders="False" DataTable="[vResult]" DisplayName="Write Range" sap:VirtualizedContainerService.HintSize="426,115" sap2010:WorkflowViewState.IdRef="WriteRange_1" SheetName="Arkusz2" StartingCell="A1" WorkbookPath="[ExcelPath]" />
+    <ui:WriteRange AddHeaders="False" DataTable="[vResult]" DisplayName="Write Range" sap:VirtualizedContainerService.HintSize="426,115" sap2010:WorkflowViewState.IdRef="WriteRange_1" SheetName="Arkusz2" StartingCell="A2" WorkbookPath="[ExcelPath]" />
   </Sequence>
 </Activity>
